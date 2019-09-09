@@ -1,7 +1,7 @@
 {
   "name": "@pascaliske/prettier-config",
   "description": "Shared prettier config file.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Pascal Iske",
@@ -20,7 +20,7 @@
     "configuration",
     "config"
   ],
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "engines": {
     "node": ">=8"
   },
