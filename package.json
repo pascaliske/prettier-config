@@ -1,0 +1,42 @@
+{
+  "name": "@pascaliske/prettier-config",
+  "description": "Shared prettier config file.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Pascal Iske",
+    "email": "info@pascal-iske.de",
+    "url": "https://pascal-iske.de"
+  },
+  "repository": {
+    "url": "https://github.com/pascaliske/prettier-config.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/pascaliske/prettier-config/issues"
+  },
+  "keywords": [
+    "prettier",
+    "configuration",
+    "config"
+  ],
+  "main": ".prettierrc",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "ajv validate -s node_modules/schemastore/src/schemas/json/prettierrc.json -d .prettierrc",
+    "format": "prettier --write \".prettierrc\"",
+    "changelog": "standard-changelog"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-conventional": "^8.1.0",
+    "ajv-cli": "^3.0.0",
+    "husky": "^3.0.5",
+    "lint-staged": "^9.2.5",
+    "prettier": "^1.18.2",
+    "schemastore": "https://github.com/SchemaStore/schemastore",
+    "standard-changelog": "^2.0.13"
+  }
+}
