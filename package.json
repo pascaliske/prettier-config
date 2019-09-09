@@ -20,7 +20,7 @@
     "configuration",
     "config"
   ],
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "engines": {
     "node": ">=8"
   },
