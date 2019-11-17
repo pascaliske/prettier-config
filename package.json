@@ -37,6 +37,6 @@
     "lint-staged": "^9.4.3",
     "prettier": "^1.19.1",
     "schemastore": "https://github.com/SchemaStore/schemastore",
-    "standard-changelog": "^2.0.17"
+    "standard-changelog": "^2.0.18"
   }
 }
