@@ -26,7 +26,7 @@
   },
   "scripts": {
     "test": "ajv validate -s node_modules/schemastore/src/schemas/json/prettierrc.json -d .prettierrc",
-    "format": "prettier --write \".prettierrc.json\"",
+    "format": "prettier --write \"*.{json,md,yml,code-*}\"",
     "changelog": "standard-changelog"
   },
   "devDependencies": {
