@@ -13,6 +13,13 @@
       "options": {
         "tabWidth": 2
       }
+    },
+    {
+      "files": ["*.php"],
+      "options": {
+        "braceStyle": "1tbs",
+        "trailingCommaPHP": true
+      }
     }
   ]
 }
