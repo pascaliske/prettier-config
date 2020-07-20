@@ -9,7 +9,20 @@
   "trailingComma": "all",
   "overrides": [
     {
-      "files": ["*rc", "*.json", "*.md", "*.yml"],
+      "files": ["*.code-*"],
+      "options": {
+        "parser": "json"
+      }
+    },
+    {
+      "files": ["*rc"],
+      "options": {
+        "parser": "json",
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": ["*.json", "*.md", "*.yml"],
       "options": {
         "tabWidth": 2
       }
