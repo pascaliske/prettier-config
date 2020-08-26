@@ -37,7 +37,7 @@
     "bump-cli": "^1.1.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
-    "prettier": "^2.1.0",
+    "prettier": "^2.1.1",
     "schemastore": "https://github.com/SchemaStore/schemastore",
     "standard-changelog": "^2.0.24"
   }
