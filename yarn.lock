@@ -2042,8 +2042,8 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 "schemastore@https://github.com/SchemaStore/schemastore":
   version "0.0.0"
-  uid "26bff9ce15144ce5a2298de482eab1a3385ba636"
-  resolved "https://github.com/SchemaStore/schemastore#26bff9ce15144ce5a2298de482eab1a3385ba636"
+  uid b46ae2750d3efeb4fccf147cd4382c7d378bc86d
+  resolved "https://github.com/SchemaStore/schemastore#b46ae2750d3efeb4fccf147cd4382c7d378bc86d"
 
 semver-compare@^1.0.0:
   version "1.0.0"
