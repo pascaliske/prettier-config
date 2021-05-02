@@ -1,6 +1,6 @@
 # Shared [`.prettierrc`](.prettierrc)
 
-[![Build Status](https://travis-ci.com/pascaliske/prettier-config.svg?branch=master)](https://travis-ci.com/pascaliske/prettier-config) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=pascaliske/prettier-config)](https://dependabot.com)
+[![Build Status](https://img.shields.io/github/workflow/status/pascaliske/prettier-config/Test%20package/master?label=test&style=flat-square)](https://github.com/pascaliske/prettier-config/actions) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=pascaliske/prettier-config)](https://dependabot.com)
 
 ## Installation
 
