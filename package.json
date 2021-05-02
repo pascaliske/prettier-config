@@ -25,6 +25,7 @@
     "node": ">=8"
   },
   "scripts": {
+    "prepare": "husky install",
     "test": "ajv validate -s node_modules/schemastore/src/schemas/json/prettierrc.json -d .prettierrc",
     "format": "prettier --write \"*.{json,md,yml,code-*}\"",
     "version": "bump --yes package.json",
@@ -35,7 +36,7 @@
     "@commitlint/config-conventional": "^12.1.1",
     "ajv-cli": "^5.0.0",
     "bump-cli": "^1.1.3",
-    "husky": "^5.2.0",
+    "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "schemastore": "https://github.com/SchemaStore/schemastore",
