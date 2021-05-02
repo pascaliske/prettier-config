@@ -1,3 +1,7 @@
+## [1.1.1](https://github.com/pascaliske/prettier-config/compare/v1.1.0...v1.1.1) (2021-05-02)
+
+
+
 # [1.1.0](https://github.com/pascaliske/prettier-config/compare/v1.0.2...v1.1.0) (2020-07-20)
 
 
