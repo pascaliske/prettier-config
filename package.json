@@ -32,7 +32,7 @@
     "changelog": "standard-changelog"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.4",
+    "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^12.1.4",
     "@rstacruz/bump-cli": "^2.0.0",
     "ajv-cli": "1.1.2",
