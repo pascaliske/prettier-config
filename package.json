@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^13.2.0",
-    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/config-conventional": "^13.2.0",
     "@rstacruz/bump-cli": "^2.0.0",
     "ajv-cli": "1.1.2",
     "husky": "^7.0.4",
