@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/pascaliske/prettier-config/compare/v1.1.3...v1.1.4) (2022-02-07)
+
+
+### Features
+
+* indent yaml example files using 2 space tab width ([526e66d](https://github.com/pascaliske/prettier-config/commit/526e66dfb60d8eb010bf1ba531a72aa93bfdf3e0))
+
+
+
 ## [1.1.3](https://github.com/pascaliske/prettier-config/compare/v1.1.2...v1.1.3) (2021-10-26)
 
 
