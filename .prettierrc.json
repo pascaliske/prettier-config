@@ -22,7 +22,7 @@
       }
     },
     {
-      "files": ["*.json", "*.md", "*.yml"],
+      "files": ["*.json", "*.md", "*.yml", "*.yml.example"],
       "options": {
         "tabWidth": 2
       }
