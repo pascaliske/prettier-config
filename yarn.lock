@@ -1994,8 +1994,8 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 "schemastore@https://github.com/SchemaStore/schemastore":
   version "0.0.0"
-  uid af9bd933edb59b90a353305a685ae0925c1944e6
-  resolved "https://github.com/SchemaStore/schemastore#af9bd933edb59b90a353305a685ae0925c1944e6"
+  uid d0e41572df7c1613f77cf4d9038c17273622050f
+  resolved "https://github.com/SchemaStore/schemastore#d0e41572df7c1613f77cf4d9038c17273622050f"
 
 "semver@2 || 3 || 4 || 5":
   version "5.7.0"
