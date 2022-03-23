@@ -2000,8 +2000,8 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 "schemastore@https://github.com/SchemaStore/schemastore":
   version "0.0.0"
-  uid "8a77e8516cf568777ed0f9458c0d1b0bbf6cea57"
-  resolved "https://github.com/SchemaStore/schemastore#8a77e8516cf568777ed0f9458c0d1b0bbf6cea57"
+  uid "854fbdb9aa53b4a9a65329626086a215a261451d"
+  resolved "https://github.com/SchemaStore/schemastore#854fbdb9aa53b4a9a65329626086a215a261451d"
 
 "semver@2 || 3 || 4 || 5":
   version "5.7.0"
