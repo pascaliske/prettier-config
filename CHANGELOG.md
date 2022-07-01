@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/pascaliske/prettier-config/compare/v1.1.5...v1.2.0) (2022-07-01)
+
+
+### Features
+
+* include extended yaml file extension ([c3067a1](https://github.com/pascaliske/prettier-config/commit/c3067a188856e1542a18ea410632198729e55bc1))
+
+
+
 ## [1.1.5](https://github.com/pascaliske/prettier-config/compare/v1.1.4...v1.1.5) (2022-02-15)
 
 
