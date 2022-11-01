@@ -1,6 +1,6 @@
 # Shared [`.prettierrc`](.prettierrc)
 
-[![Build Status](https://img.shields.io/github/workflow/status/pascaliske/prettier-config/Test%20package/master?label=test&style=flat-square)](https://github.com/pascaliske/prettier-config/actions) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=pascaliske/prettier-config)](https://dependabot.com)
+[![Build Status](https://img.shields.io/github/workflow/status/pascaliske/prettier-config/Test%20package/master?label=test&style=flat-square)](https://github.com/pascaliske/prettier-config/actions)
 
 ## Installation
 
@@ -22,4 +22,4 @@ $ yarn add @pascaliske/prettier-config
 
 ## License
 
-MIT © [Pascal Iske](https://pascal-iske.de)
+MIT © [Pascal Iske](https://pascaliske.dev)
