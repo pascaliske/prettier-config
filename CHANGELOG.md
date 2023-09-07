@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/pascaliske/prettier-config/compare/v1.2.0...v1.3.0) (2023-09-07)
+
+
+### Features
+
+* implement config override with tailwind plugin ([ba49381](https://github.com/pascaliske/prettier-config/commit/ba49381c3bd9810cc623899d4e87a5566beddb5d))
+
+
+
 # [1.2.0](https://github.com/pascaliske/prettier-config/compare/v1.1.5...v1.2.0) (2022-07-01)
 
 
