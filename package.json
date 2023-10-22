@@ -37,8 +37,8 @@
   },
   "prettier": "@pascaliske/prettier-config",
   "devDependencies": {
-    "@commitlint/cli": "^17.2.0",
-    "@commitlint/config-conventional": "^17.2.0",
+    "@commitlint/cli": "^18.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
     "@rstacruz/bump-cli": "^2.0.1",
     "ajv-cli": "5.0.0",
     "husky": "^8.0.1",
